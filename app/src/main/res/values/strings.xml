@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Dice Roll</string>
+    <string name="button">Roll!</string>
+    <string name="button2">保存</string>
+    <string name="button3">読み込み</string>
+    <string name="hint">input</string>
+    <string name="dice">d</string>
+    <string name="sum">合計：</string>
+    <string name="text_log">log</string>
+    <string name="text_sub">back</string>
+    <string name="preference_file_key">DataStore</string>
+</resources>
